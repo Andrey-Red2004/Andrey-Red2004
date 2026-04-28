@@ -212,10 +212,10 @@ NIVEL DE EXPERIENCIA
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  #??? [TU_NOMBRE]                                   │
+│  #??? [Andrey]                                   │
 │  Tipo: Full-Stack / Developer                       │
 │  ─────────────────────────────────────────────────  │
-│  Altura: ??? m   Peso: ??? kg                        │
+│  Altura: 1.74 m   Peso: 60 kg                        │
 │                                                     │
 │  Descripción:                                       │
 │  Este Developer habita en Costa Rica. Es conocido   │
