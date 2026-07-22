@@ -36,7 +36,7 @@
 ┌──────────────────────────────────────────────┐
 │  TRAINER CARD                                │
 │  ─────────────────────────────────────────  │
-│  NOMBRE  : [Tu Nombre]                       │
+│  NOMBRE  : Andrey                            │
 │  REGIÓN  : Costa Rica 🌴                     │
 │  CLASE   : Full-Stack Developer              │
 │  INSIGNIAS: ██████████ 10/10                 │
@@ -190,7 +190,7 @@ NIVEL DE EXPERIENCIA
 └─────────────────────────────────────────────────────┘
 ```
 
-> ✏️ *Reemplaza con tus proyectos reales y links*
+
 
 ---
 
