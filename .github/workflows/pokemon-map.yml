@@ -23,9 +23,10 @@ jobs:
           outputs: |
             assets/pokemon-contribution-map.svg?palette=github-dark
 
-      # 3. Sube y guarda los cambios automáticamente en tu repositorio
+      # 3. Sube y guarda los cambios automáticamente usando otra acción estable
       - name: Push the generated file to the assets folder
-        uses: stefanzhou/git-auto-commit-action@v4
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: "chore: update pokemon contribution map"
-          file_pattern: assets/pokemon-contribution-map.svg
+          message: "chore: update pokemon contribution map"
+          add: "assets/pokemon-contribution-map.svg"
+          default_author: github_actions
