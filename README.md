@@ -489,9 +489,9 @@ andrey@pokeos:~$ map render --commits --last=52w
 
 <div align="center">
 
-<img src="./assets/pokemon-contribution-map.svg" alt="mapa de contribuciones estilo Pokémon" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrey-Red2000&bg_color=0D1117&color=39FF14&line=FFCB05&point=FF1E1E&hide_border=true" width="90%"/>
 
-<sub>Mapa generado automáticamente cada 24h a partir de tus commits reales. Más actividad = más terreno explorado por el entrenador. Ver `.github/workflows/pokemon-map.yml` para el generador — instrucciones de instalación al final de este README.</sub>
+<sub>Gráfico de actividad en tiempo real de tus commits. Más actividad = mayor energía del entrenador.</sub>
 
 </div>
 
