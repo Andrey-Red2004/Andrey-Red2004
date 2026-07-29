@@ -14,19 +14,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Genera el mapa de contribuciones estilo Pokémon
+      # 2. Genera el mapa y lo guarda automáticamente en la rama
       - name: Generate pokemon-contribution-map.svg
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: Andrey-Red2000
           outputs: |
             assets/pokemon-contribution-map.svg?palette=github-dark
-
-      # 3. Sube y guarda los cambios automáticamente usando otra acción estable
-      - name: Push the generated file to the assets folder
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update pokemon contribution map"
-          add: "assets/pokemon-contribution-map.svg"
-          default_author: github_actions
+          push_branch: main
