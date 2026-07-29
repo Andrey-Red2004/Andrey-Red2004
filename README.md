@@ -489,7 +489,7 @@ andrey@pokeos:~$ map render --commits --last=52w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrey-Red2000&bg_color=0D1117&color=39FF14&line=FFCB05&point=FF1E1E&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrey-Red2004&bg_color=0D1117&color=39FF14&line=FFCB05&point=FF1E1E&hide_border=true" width="90%"/>
 
 <sub>Gráfico de actividad en tiempo real de tus commits. Más actividad = mayor energía del entrenador.</sub>
 
@@ -531,6 +531,6 @@ andrey@pokeos:~$ shutdown -r "thanks for visiting, trainer"
 
 <br><br>
 
-![visitors](https://komarev.com/ghpvc/?username=TU_USUARIO&color=39FF14&style=for-the-badge&label=TRAINERS+VISITANTES)
+![visitors](https://komarev.com/ghpvc/?username=Andrey-Red2004&color=39FF14&style=for-the-badge&label=TRAINERS+VISITANTES)
 
 </div>
