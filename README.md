@@ -472,12 +472,12 @@ andrey@pokeos:~$ stats --github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFCB05&icon_color=39FF14&text_color=F5F5F5&ring_color=FF1E1E" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFCB05&text_color=F5F5F5&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Andrey-Red2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFCB05&icon_color=39FF14&text_color=F5F5F5&ring_color=FF1E1E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Red2004&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFCB05&text_color=F5F5F5&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=0D1117&ring=39FF14&fire=FF1E1E&currStreakLabel=FFCB05&sideNums=F5F5F5&currStreakNum=F5F5F5&sideLabels=F5F5F5"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey-Red2004&hide_border=true&background=0D1117&ring=39FF14&fire=FF1E1E&currStreakLabel=FFCB05&sideNums=F5F5F5&currStreakNum=F5F5F5&sideLabels=F5F5F5"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=39FF14&line=FFCB05&point=FF1E1E&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrey-Red2004&bg_color=0D1117&color=39FF14&line=FFCB05&point=FF1E1E&hide_border=true" width="90%"/>
 
 </div>
 
