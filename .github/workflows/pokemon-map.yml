@@ -1,0 +1,31 @@
+name: Generate Pokémon Contribution Map
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta todos los días a la medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate the contribution snake
+    steps:
+      # 1. Realiza el checkout del repositorio
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. Genera el mapa de contribuciones estilo Pokémon
+      - name: Generate pokemon-contribution-map.svg
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Andrey-Red2000
+          outputs: |
+            assets/pokemon-contribution-map.svg?palette=github-dark
+
+      # 3. Sube y guarda los cambios automáticamente en tu repositorio
+      - name: Push the generated file to the assets folder
+        uses: stefanzhou/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update pokemon contribution map"
+          file_pattern: assets/pokemon-contribution-map.svg
